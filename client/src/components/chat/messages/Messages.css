@@ -1,0 +1,12 @@
+.messages {
+  padding: 5% 0;
+  overflow: auto;
+  flex: auto;
+}
+
+.noMessages {
+  margin: 0, 20px !important;
+  padding: 0, 20px;
+  font-size: 20px;
+  font-weight: bold;
+}

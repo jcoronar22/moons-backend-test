@@ -20,3 +20,10 @@ Instalar dependencias
 `npm install`
 Iniciar app
 `npm run start`
+
+
+## ¿Cómo funciona?
+
+- Debes escrbir un nombre de usuario y una sala para unirte
+- No puedes usar un nombre repetido
+- Si otro usuario inicia en la misma sala, podrán intercambiar mensajes
